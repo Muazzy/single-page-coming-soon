@@ -159,6 +159,7 @@ p {
 
 /* hero image section */
 .hero-section {
+    height: 100vh;
     flex: 5;
     background-image: url(images/hero-desktop.jpg);
     background-repeat: no-repeat;
