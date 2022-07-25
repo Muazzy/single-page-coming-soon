@@ -15,7 +15,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-with-js-_I6-aSso2B)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-single-page-coming-soon-site-KkpqSb3MSY)
 - Live Site URL: [Live site](https://muazzy.github.io/single-page-coming-soon/)
 
 ### Built with
