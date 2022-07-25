@@ -42,8 +42,7 @@ p {
 
 /* the main container where all the body content is  */
 .main-container {
-    /* max-width: 1440px; */
-    /* height: auto; */
+    height: 100vh;
     width: 100vw;
     display: flex;
     display: -webkit-flex;
@@ -194,7 +193,7 @@ p {
     }
 
     .info-section {
-        margin-top: 2rem;
+        padding-top: 2rem;
         flex: auto;
         order: 1;
         text-align: center;
